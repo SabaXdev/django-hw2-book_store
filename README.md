@@ -20,6 +20,7 @@ This Django project is a simple book store application where users can view a li
 1. Start the Django development server: `python manage.py runserver`
 2. Navigate to `http://127.0.0.1:8000/books/` to view the list of books.
 3. Click on a book to view its details at `http://127.0.0.1:8000/books/<book_id>/`.
+![project] https://i.etsystatic.com/18641759/r/il/73dce2/2547404002/il_fullxfull.2547404002_65f5.jpg
 
 ## Project Structure
 - `market/`: Django application directory.
